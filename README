@@ -1,0 +1,15 @@
+Tiny RestMQ implementation using gevent + bottle.
+
+run: $ python tinymq.py
+
+test: 
+$ curl -d "value=oy" http://localhost:8081/q/test
+$ curl http://localhost:8081/q/test
+
+test COMET:
+$ curl http://localhost:8081/c/test
+
+in another terminal, execute:
+$ curl -d "value=oy" http://localhost:8081/q/test
+
+

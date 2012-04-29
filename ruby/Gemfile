@@ -1,0 +1,8 @@
+source "http://rubygems.org"
+gem "eventmachine"
+gem "thin"
+gem "sinatra"
+gem "json"
+gem 'redis'
+gem 'em-synchrony'
+gem 'sinatra-synchrony'
