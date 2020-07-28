@@ -14,7 +14,7 @@ GEM
       eventmachine (>= 0.12.9)
     escape_utils (0.2.4)
     eventmachine (0.12.10)
-    json (1.6.5)
+    json (2.3.0)
     rack (1.4.1)
     rack-fiber_pool (0.9.1)
     rack-protection (1.2.0)
