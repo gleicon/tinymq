@@ -15,7 +15,7 @@ GEM
     escape_utils (0.2.4)
     eventmachine (0.12.10)
     json (1.6.5)
-    rack (1.4.1)
+    rack (1.6.13)
     rack-fiber_pool (0.9.1)
     rack-protection (1.2.0)
       rack
